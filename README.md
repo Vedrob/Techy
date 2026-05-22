@@ -21,7 +21,7 @@ According to the repository metrics, the codebase consists of:
 ---
 
 
-##🚀 Getting Started
+## 🚀 Getting Started
 Follow these steps to set up and run Techy locally on your machine.
 
 1. Prerequisites
@@ -49,10 +49,13 @@ python main.py
 Once the local server initializes, open your browser and navigate to http://127.0.0.1:5000/.
 
 
-##📝 Features
+## 📝 Features
 Full-Scale Blog Management: Straightforward interface to compose, publish, and view tech-centric posts.
 Robust Input Validation: Standardized handling for login and post creation via secure back-end forms.
 Custom UI Styling: Highly tuned interface built with optimized, handwritten CSS for a distinct aesthetic.
 
-## live link - vedanshsingh975.pythonanywhere.com
+## live link 
+deployed using pythonanywhere
+
+live link - vedanshsingh975.pythonanywhere.com
 
