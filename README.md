@@ -21,7 +21,7 @@ According to the repository metrics, the codebase consists of:
 ---
 
 
-🚀 Getting Started
+##🚀 Getting Started
 Follow these steps to set up and run Techy locally on your machine.
 
 1. Prerequisites
@@ -32,12 +32,12 @@ git clone [https://github.com/Vedrob/Techy.git](https://github.com/Vedrob/Techy.
 cd Techy
 3. Set Up a Virtual Environment (Recommended)
 Bash
-# Windows
+## Windows
 python -m venv venv
 venv\Scripts\activate
 
 
-# macOS/Linux
+## macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 4. Install Dependencies
@@ -49,7 +49,10 @@ python main.py
 Once the local server initializes, open your browser and navigate to http://127.0.0.1:5000/.
 
 
-📝 Features
+##📝 Features
 Full-Scale Blog Management: Straightforward interface to compose, publish, and view tech-centric posts.
 Robust Input Validation: Standardized handling for login and post creation via secure back-end forms.
 Custom UI Styling: Highly tuned interface built with optimized, handwritten CSS for a distinct aesthetic.
+
+## live link - vedanshsingh975.pythonanywhere.com
+
